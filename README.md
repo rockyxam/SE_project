@@ -1,4 +1,4 @@
-# SE_project
+# SE Project
 
 Executive Summary
 Table of Contents
